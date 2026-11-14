@@ -17,7 +17,7 @@ AIR_BORE_D = 14.0               # Diametro foro passante centrale continuo
 TOTAL_H = 20.0                  # Altezza complessiva adattatore
 
 # Tolleranze e quote FDM PLA
-FIT_CLEARANCE = 0.2             # Gioco radiale/diametrale per accoppiamenti
+FIT_CLEARANCE = 0.2             # Gioco diametrale per accoppiamenti FDM (+0.2 mm su Ø)
 BOTTOM_OUTER_D = 25.0           # Diametro esterno base (lato piatto/aspiratore)
 TOP_OUTER_D = 35.0              # Diametro esterno testa (lato campana eSUN)
 CHAMFER_BED = 0.4               # Smusso anti zampa d'elefante sul piatto (Z=0)
